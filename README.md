@@ -1,6 +1,31 @@
 <h1>First Profiling</h1>
 <a href="https://ibb.co/C5S9yVm"><img src="https://i.ibb.co/27pMrcW/test-plan1.png" alt="test-plan1" border="0"></a>
+<a href="https://ibb.co/SQWTrLZ"><img src="https://i.ibb.co/Q8zBd5x/all-student-names.png" alt="all-student-names" border="0"></a>
+<a href="https://ibb.co/SxS30mR"><img src="https://i.ibb.co/N3RypNZ/highest-gpa.png" alt="highest-gpa" border="0"></a>
+<a href="https://ibb.co/HNkkJ4f"><img src="https://i.ibb.co/8zSShsL/testresult1.png" alt="testresult1" border="0"></a>
+<a href="https://ibb.co/DCktGLJ"><img src="https://i.ibb.co/MVps89v/testresult2.png" alt="testresult2" border="0"></a>
+<a href="https://ibb.co/LNymZfG"><img src="https://i.ibb.co/wcqVz1v/testresult3.png" alt="testresult3" border="0"></a>
 
+
+<h1>Execution Time Before Refactoring</h1>
+
+<a href="https://ibb.co/wJytWMq"><img src="https://i.ibb.co/ZHd98Wr/before-refactoring1.png" alt="before-refactoring1" border="0"></a>
+<a href="https://ibb.co/Jk53WHr"><img src="https://i.ibb.co/PCwDsg1/before-refactoring2.png" alt="before-refactoring2" border="0"></a>
+<a href="https://ibb.co/nBYYLjW"><img src="https://i.ibb.co/G9885Rh/before-refactoring3.png" alt="before-refactoring3" border="0"></a>
+
+
+<h1>Execution Time After Refactoring</h1>
+
+<a href="https://ibb.co/8KBKNN7"><img src="https://i.ibb.co/K0G0bbr/after-refactoring1.png" alt="after-refactoring1" border="0"></a>
+<a href="https://ibb.co/51xszCv"><img src="https://i.ibb.co/Gd3C1Gk/after-refactoring2.png" alt="after-refactoring2" border="0"></a>
+<a href="https://ibb.co/db2xC3t"><img src="https://i.ibb.co/8z5tvRb/after-refactoring3.png" alt="after-refactoring3" border="0"></a>
+
+
+<h1>Second Polling</h1>
+
+<a href="https://ibb.co/sQW48KN"><img src="https://i.ibb.co/ftDWjky/testresult1-after.png" alt="testresult1-after" border="0"></a>
+<a href="https://ibb.co/0mx5HRw"><img src="https://i.ibb.co/9c7PQkM/testresult2-after.png" alt="testresult2-after" border="0"></a>
+<a href="https://ibb.co/PGQGdFZ"><img src="https://i.ibb.co/8gcgHND/tesresult3-after.png" alt="tesresult3-after" border="0"></a>
 
 
 <h1>REFLECTION</h1>
